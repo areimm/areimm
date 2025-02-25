@@ -76,4 +76,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/areimm/areimm/output/snake.svg" alt="Snake animation" />
