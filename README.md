@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRvcnVpa3RsY2RqcThrMGEwcndrdjRyajh2NmJsZGpmZXp1bmpmZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"  />
+<img align="right" height="150" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRvcnVpa3RsY2RqcThrMGEwcndrdjRyajh2NmJsZGpmZXp1bmpmZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZvMWE1OTVwbjE3ZTk3cDBscmZ2Z3h6czgxd2xld2Z1azZpN2dxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TZf4ZyXb0lXXi/giphy.gif)"  />
 
 ###
 
