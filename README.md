@@ -64,11 +64,8 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="30" alt="mssql logo" />
 </div>
 
-<img align="center" height="150" src="https://media.giphy.com/media/Pb0d5MsNSeGoA2v1zv/giphy.gif?cid=ecf05e472pn1wkcbhxt4t501kf99dk35tbjhm2ifr777cwgk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-###
+<img align="center" height="250" src="https://media.giphy.com/media/Pb0d5MsNSeGoA2v1zv/giphy.gif?cid=ecf05e472pn1wkcbhxt4t501kf99dk35tbjhm2ifr777cwgk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-
-###
 
 <br clear="both">
 
