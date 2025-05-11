@@ -35,8 +35,6 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" alt="firebase logo" />
-  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo" />
